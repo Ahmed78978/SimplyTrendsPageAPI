@@ -1,0 +1,12 @@
+Flask
+requests
+selenium
+selenium-wire
+undetected-chromedriver
+pandas
+gunicorn
+webdriver-manager
+uvicorn
+bs4
+psutil
+timeout_decorator
