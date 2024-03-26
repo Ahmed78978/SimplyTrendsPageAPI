@@ -4,7 +4,7 @@
     "short_name": "SimplyTrends",
     "name": "SimplyTrends - Shopify Spy & Dropship Scraper",
     "description": "Free all-in-one Shopify inspector, spy, parser, and dropshipping tools.",
-    "version": "0.0.0.46",
+    "version": "0.0.0.48",
     "manifest_version": 3,
     "background": {
         "service_worker": "background.js"
